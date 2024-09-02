@@ -1,2 +1,1 @@
-# reddyprasade-AUK-Ask-Unified-Knowledge-Girikon
-Ask-Unified-Knowledge
+# AUK-Ask-Unified-Knowldege-Girikon
